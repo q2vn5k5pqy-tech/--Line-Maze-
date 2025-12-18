@@ -1,0 +1,19 @@
+{
+  "maxHp": 30,
+  "maxMp": 12,
+  "atk": 6,
+  "def": 3,
+  "acc": 7,
+  "eva": 4,
+  "startGold": 25,
+  "startWeapon": "stone",
+  "startItems": [
+    {
+      "id": "potion_s",
+      "qty": 2
+    }
+  ],
+  "startAmmo": {
+    "arrow": 10
+  }
+}

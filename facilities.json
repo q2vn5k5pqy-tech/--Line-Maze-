@@ -1,0 +1,27 @@
+{
+  "inn": {
+    "name": {
+      "ja": "宿",
+      "en": "Inn"
+    },
+    "baseCost": 30,
+    "costIncrement": 20,
+    "effects": {
+      "restoreHp": "max",
+      "restoreMp": "max",
+      "restoreAmmo": true,
+      "clearBadStatus": true
+    }
+  },
+  "supply": {
+    "name": {
+      "ja": "補給所",
+      "en": "Supply Depot"
+    },
+    "baseCost": 10,
+    "costIncrement": 5,
+    "effects": {
+      "restoreAmmo": true
+    }
+  }
+}

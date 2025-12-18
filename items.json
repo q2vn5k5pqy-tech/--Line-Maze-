@@ -1,0 +1,38 @@
+{
+  "potion_s": {
+    "name": {
+      "ja": "小回復薬",
+      "en": "Minor Potion"
+    },
+    "desc": {
+      "ja": "HPを10回復",
+      "en": "Restore 10 HP"
+    },
+    "type": "consumable",
+    "healHp": 10
+  },
+  "potion_m": {
+    "name": {
+      "ja": "回復薬",
+      "en": "Potion"
+    },
+    "desc": {
+      "ja": "HPを20回復",
+      "en": "Restore 20 HP"
+    },
+    "type": "consumable",
+    "healHp": 20
+  },
+  "ancient_ring": {
+    "name": {
+      "ja": "古の指輪",
+      "en": "Ancient Ring"
+    },
+    "desc": {
+      "ja": "隠しの証。売ると高い。",
+      "en": "Proof of a secret. Sells for a lot."
+    },
+    "type": "valuable",
+    "sellGold": 200
+  }
+}

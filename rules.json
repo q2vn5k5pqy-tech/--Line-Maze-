@@ -1,0 +1,15 @@
+{
+  "gridSize": {
+    "w": 30,
+    "h": 30
+  },
+  "chebyshevSight": 3,
+  "enemyUpdateAll": true,
+  "noWallPhasing": true,
+  "moveIntoWallConsumesTurn": false,
+  "meleeWhiffConsumesTurn": true,
+  "rangedWhiffConsumesTurn": true,
+  "enemyProcessingOrder": "random",
+  "pathfinding": "bfs",
+  "maxRayDistance": 29
+}

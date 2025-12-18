@@ -1,0 +1,94 @@
+[
+  {
+    "id": "f1",
+    "theme": "meadow",
+    "name": {
+      "ja": "草原の迷宮",
+      "en": "Meadow Labyrinth"
+    },
+    "bgColor": "#173b1d",
+    "accent": "#9be37f",
+    "musicPattern": 1,
+    "start": {
+      "x": 1,
+      "y": 1,
+      "dir": 0
+    },
+    "stairsDown": {
+      "x": 27,
+      "y": 23
+    }
+  },
+  {
+    "id": "f2",
+    "theme": "cavern",
+    "name": {
+      "ja": "洞窟の迷宮",
+      "en": "Cavern Labyrinth"
+    },
+    "bgColor": "#0e0f12",
+    "accent": "#8aa0b2",
+    "musicPattern": 2,
+    "start": {
+      "x": 1,
+      "y": 1,
+      "dir": 0
+    },
+    "stairsDown": {
+      "x": 25,
+      "y": 25
+    },
+    "stairsUp": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
+    "id": "f3",
+    "theme": "volcano",
+    "name": {
+      "ja": "火山の迷宮",
+      "en": "Volcanic Labyrinth"
+    },
+    "bgColor": "#2b0c07",
+    "accent": "#ff8a3d",
+    "musicPattern": 3,
+    "start": {
+      "x": 1,
+      "y": 1,
+      "dir": 0
+    },
+    "stairsDown": {
+      "x": 7,
+      "y": 1
+    },
+    "stairsUp": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
+    "id": "f4",
+    "theme": "castle",
+    "name": {
+      "ja": "魔王城の迷宮",
+      "en": "Demon Castle"
+    },
+    "bgColor": "#14081b",
+    "accent": "#c59cff",
+    "musicPattern": 4,
+    "start": {
+      "x": 1,
+      "y": 1,
+      "dir": 0
+    },
+    "goal": {
+      "x": 17,
+      "y": 7
+    },
+    "stairsUp": {
+      "x": 1,
+      "y": 1
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "stone": {
+    "name": {
+      "ja": "石",
+      "en": "Stone"
+    },
+    "kind": "ranged",
+    "range": 4,
+    "ammoType": "infinite",
+    "mpCost": 0,
+    "baseDamage": 3,
+    "hitBonus": 0,
+    "lineOfSightRequired": true
+  },
+  "bow": {
+    "name": {
+      "ja": "弓",
+      "en": "Bow"
+    },
+    "kind": "ranged",
+    "range": 6,
+    "ammoType": "ammo",
+    "ammoKey": "arrow",
+    "ammoMax": 20,
+    "mpCost": 0,
+    "baseDamage": 5,
+    "hitBonus": 1,
+    "lineOfSightRequired": true
+  },
+  "magic": {
+    "name": {
+      "ja": "魔法",
+      "en": "Magic"
+    },
+    "kind": "ranged",
+    "range": 6,
+    "ammoType": "mp",
+    "mpCost": 3,
+    "baseDamage": 6,
+    "hitBonus": 2,
+    "lineOfSightRequired": true
+  }
+}

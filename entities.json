@@ -1,0 +1,912 @@
+[
+  {
+    "id": "f1_inn",
+    "floor": "f1",
+    "type": "facility",
+    "facilityType": "inn",
+    "x": 2,
+    "y": 1
+  },
+  {
+    "id": "f1_supply",
+    "floor": "f1",
+    "type": "facility",
+    "facilityType": "supply",
+    "x": 3,
+    "y": 3
+  },
+  {
+    "id": "f1_chest_0",
+    "floor": "f1",
+    "type": "chest",
+    "x": 9,
+    "y": 19,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 32
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f1_chest_1",
+    "floor": "f1",
+    "type": "chest",
+    "x": 1,
+    "y": 19,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 31
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f1_chest_2",
+    "floor": "f1",
+    "type": "chest",
+    "x": 27,
+    "y": 14,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 20
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f1_chest_3",
+    "floor": "f1",
+    "type": "chest",
+    "x": 17,
+    "y": 20,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 34
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f1_enemy_0",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "slime",
+    "x": 27,
+    "y": 19
+  },
+  {
+    "id": "f1_enemy_1",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "goblin",
+    "x": 2,
+    "y": 9
+  },
+  {
+    "id": "f1_enemy_2",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "slime",
+    "x": 27,
+    "y": 27
+  },
+  {
+    "id": "f1_enemy_3",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "wolf",
+    "x": 5,
+    "y": 7
+  },
+  {
+    "id": "f1_enemy_4",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "goblin",
+    "x": 24,
+    "y": 7
+  },
+  {
+    "id": "f1_enemy_5",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "goblin",
+    "x": 7,
+    "y": 7
+  },
+  {
+    "id": "f1_enemy_6",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "slime",
+    "x": 20,
+    "y": 19
+  },
+  {
+    "id": "f1_enemy_7",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "wolf",
+    "x": 11,
+    "y": 11
+  },
+  {
+    "id": "f1_enemy_8",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "slime",
+    "x": 25,
+    "y": 6
+  },
+  {
+    "id": "f1_enemy_9",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "slime",
+    "x": 4,
+    "y": 22
+  },
+  {
+    "id": "f1_enemy_10",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "wolf",
+    "x": 14,
+    "y": 3
+  },
+  {
+    "id": "f1_enemy_11",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "goblin",
+    "x": 3,
+    "y": 22
+  },
+  {
+    "id": "f1_enemy_12",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "slime",
+    "x": 5,
+    "y": 26
+  },
+  {
+    "id": "f1_enemy_13",
+    "floor": "f1",
+    "type": "enemy",
+    "enemyType": "goblin",
+    "x": 21,
+    "y": 3
+  },
+  {
+    "id": "f1_stairs_down",
+    "floor": "f1",
+    "type": "stairs",
+    "dir": "down",
+    "x": 27,
+    "y": 23
+  },
+  {
+    "id": "f2_inn",
+    "floor": "f2",
+    "type": "facility",
+    "facilityType": "inn",
+    "x": 1,
+    "y": 4
+  },
+  {
+    "id": "f2_supply",
+    "floor": "f2",
+    "type": "facility",
+    "facilityType": "supply",
+    "x": 3,
+    "y": 3
+  },
+  {
+    "id": "f2_chest_0",
+    "floor": "f2",
+    "type": "chest",
+    "x": 11,
+    "y": 12,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 42
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f2_chest_1",
+    "floor": "f2",
+    "type": "chest",
+    "x": 19,
+    "y": 7,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 56
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f2_chest_2",
+    "floor": "f2",
+    "type": "chest",
+    "x": 11,
+    "y": 3,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 36
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f2_chest_3",
+    "floor": "f2",
+    "type": "chest",
+    "x": 24,
+    "y": 15,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 64
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f2_enemy_0",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "orc",
+    "x": 8,
+    "y": 10
+  },
+  {
+    "id": "f2_enemy_1",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "orc",
+    "x": 10,
+    "y": 7
+  },
+  {
+    "id": "f2_enemy_2",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 22,
+    "y": 27
+  },
+  {
+    "id": "f2_enemy_3",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "skeleton",
+    "x": 25,
+    "y": 6
+  },
+  {
+    "id": "f2_enemy_4",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "skeleton",
+    "x": 3,
+    "y": 17
+  },
+  {
+    "id": "f2_enemy_5",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "orc",
+    "x": 21,
+    "y": 1
+  },
+  {
+    "id": "f2_enemy_6",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 19,
+    "y": 19
+  },
+  {
+    "id": "f2_enemy_7",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 14,
+    "y": 25
+  },
+  {
+    "id": "f2_enemy_8",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "skeleton",
+    "x": 27,
+    "y": 20
+  },
+  {
+    "id": "f2_enemy_9",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 27,
+    "y": 19
+  },
+  {
+    "id": "f2_enemy_10",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 9,
+    "y": 23
+  },
+  {
+    "id": "f2_enemy_11",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "orc",
+    "x": 21,
+    "y": 5
+  },
+  {
+    "id": "f2_enemy_12",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "skeleton",
+    "x": 26,
+    "y": 1
+  },
+  {
+    "id": "f2_enemy_13",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 13,
+    "y": 9
+  },
+  {
+    "id": "f2_enemy_14",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "bat",
+    "x": 11,
+    "y": 21
+  },
+  {
+    "id": "f2_enemy_15",
+    "floor": "f2",
+    "type": "enemy",
+    "enemyType": "skeleton",
+    "x": 5,
+    "y": 1
+  },
+  {
+    "id": "f2_stairs_down",
+    "floor": "f2",
+    "type": "stairs",
+    "dir": "down",
+    "x": 25,
+    "y": 25
+  },
+  {
+    "id": "f2_stairs_up",
+    "floor": "f2",
+    "type": "stairs",
+    "dir": "up",
+    "x": 1,
+    "y": 1
+  },
+  {
+    "id": "f3_inn",
+    "floor": "f3",
+    "type": "facility",
+    "facilityType": "inn",
+    "x": 2,
+    "y": 2
+  },
+  {
+    "id": "f3_supply",
+    "floor": "f3",
+    "type": "facility",
+    "facilityType": "supply",
+    "x": 1,
+    "y": 6
+  },
+  {
+    "id": "f3_chest_0",
+    "floor": "f3",
+    "type": "chest",
+    "x": 23,
+    "y": 12,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 69
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f3_chest_1",
+    "floor": "f3",
+    "type": "chest",
+    "x": 9,
+    "y": 4,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 87
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f3_chest_2",
+    "floor": "f3",
+    "type": "chest",
+    "x": 3,
+    "y": 19,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 105
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f3_chest_3",
+    "floor": "f3",
+    "type": "chest",
+    "x": 18,
+    "y": 15,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 57
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f3_enemy_0",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 7,
+    "y": 18
+  },
+  {
+    "id": "f3_enemy_1",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "salaman",
+    "x": 19,
+    "y": 8
+  },
+  {
+    "id": "f3_enemy_2",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "salaman",
+    "x": 26,
+    "y": 3
+  },
+  {
+    "id": "f3_enemy_3",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 22,
+    "y": 3
+  },
+  {
+    "id": "f3_enemy_4",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 4,
+    "y": 15
+  },
+  {
+    "id": "f3_enemy_5",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 11,
+    "y": 6
+  },
+  {
+    "id": "f3_enemy_6",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 25,
+    "y": 1
+  },
+  {
+    "id": "f3_enemy_7",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 8,
+    "y": 17
+  },
+  {
+    "id": "f3_enemy_8",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 9,
+    "y": 13
+  },
+  {
+    "id": "f3_enemy_9",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 27,
+    "y": 9
+  },
+  {
+    "id": "f3_enemy_10",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "lava_golem",
+    "x": 24,
+    "y": 27
+  },
+  {
+    "id": "f3_enemy_11",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "salaman",
+    "x": 2,
+    "y": 15
+  },
+  {
+    "id": "f3_enemy_12",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "lava_golem",
+    "x": 18,
+    "y": 27
+  },
+  {
+    "id": "f3_enemy_13",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 5,
+    "y": 5
+  },
+  {
+    "id": "f3_enemy_14",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "lava_golem",
+    "x": 27,
+    "y": 19
+  },
+  {
+    "id": "f3_enemy_15",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 27,
+    "y": 7
+  },
+  {
+    "id": "f3_enemy_16",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "lava_golem",
+    "x": 15,
+    "y": 13
+  },
+  {
+    "id": "f3_enemy_17",
+    "floor": "f3",
+    "type": "enemy",
+    "enemyType": "fire_imp",
+    "x": 24,
+    "y": 21
+  },
+  {
+    "id": "f3_stairs_down",
+    "floor": "f3",
+    "type": "stairs",
+    "dir": "down",
+    "x": 7,
+    "y": 1
+  },
+  {
+    "id": "f3_stairs_up",
+    "floor": "f3",
+    "type": "stairs",
+    "dir": "up",
+    "x": 1,
+    "y": 1
+  },
+  {
+    "id": "f4_inn",
+    "floor": "f4",
+    "type": "facility",
+    "facilityType": "inn",
+    "x": 1,
+    "y": 2
+  },
+  {
+    "id": "f4_supply",
+    "floor": "f4",
+    "type": "facility",
+    "facilityType": "supply",
+    "x": 3,
+    "y": 1
+  },
+  {
+    "id": "f4_chest_0",
+    "floor": "f4",
+    "type": "chest",
+    "x": 9,
+    "y": 11,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 88
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f4_chest_1",
+    "floor": "f4",
+    "type": "chest",
+    "x": 15,
+    "y": 2,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 92
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f4_chest_2",
+    "floor": "f4",
+    "type": "chest",
+    "x": 27,
+    "y": 22,
+    "contents": [
+      {
+        "kind": "gold",
+        "amount": 112
+      },
+      {
+        "kind": "item",
+        "id": "potion_s"
+      }
+    ]
+  },
+  {
+    "id": "f4_enemy_0",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "demon_mage",
+    "x": 7,
+    "y": 7
+  },
+  {
+    "id": "f4_enemy_1",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "dark_knight",
+    "x": 1,
+    "y": 19
+  },
+  {
+    "id": "f4_enemy_2",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "dark_knight",
+    "x": 23,
+    "y": 9
+  },
+  {
+    "id": "f4_enemy_3",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "hellhound",
+    "x": 21,
+    "y": 23
+  },
+  {
+    "id": "f4_enemy_4",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "demon_mage",
+    "x": 13,
+    "y": 16
+  },
+  {
+    "id": "f4_enemy_5",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "hellhound",
+    "x": 26,
+    "y": 4
+  },
+  {
+    "id": "f4_enemy_6",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "demon_mage",
+    "x": 4,
+    "y": 16
+  },
+  {
+    "id": "f4_enemy_7",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "hellhound",
+    "x": 8,
+    "y": 21
+  },
+  {
+    "id": "f4_enemy_8",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "dark_knight",
+    "x": 24,
+    "y": 23
+  },
+  {
+    "id": "f4_enemy_9",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "demon_mage",
+    "x": 24,
+    "y": 15
+  },
+  {
+    "id": "f4_enemy_10",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "dark_knight",
+    "x": 11,
+    "y": 27
+  },
+  {
+    "id": "f4_enemy_11",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "demon_mage",
+    "x": 5,
+    "y": 16
+  },
+  {
+    "id": "f4_enemy_12",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "dark_knight",
+    "x": 26,
+    "y": 1
+  },
+  {
+    "id": "f4_enemy_13",
+    "floor": "f4",
+    "type": "enemy",
+    "enemyType": "hellhound",
+    "x": 25,
+    "y": 5
+  },
+  {
+    "id": "f4_stairs_up",
+    "floor": "f4",
+    "type": "stairs",
+    "dir": "up",
+    "x": 1,
+    "y": 1
+  },
+  {
+    "id": "f4_goal",
+    "floor": "f4",
+    "type": "goal",
+    "x": 17,
+    "y": 7
+  },
+  {
+    "id": "f3_trigger_ancient",
+    "floor": "f3",
+    "type": "trigger",
+    "x": 13,
+    "y": 21,
+    "triggerType": "openDoor",
+    "targetDoorId": "f3_secret_door",
+    "note": {
+      "ja": "（隠し要素）敵がここを踏むと何かが起こる。",
+      "en": "(Secret) If an enemy steps here, something changes."
+    }
+  },
+  {
+    "id": "f3_secret_door",
+    "floor": "f3",
+    "type": "door",
+    "x": 8,
+    "y": 2,
+    "closedTile": "#",
+    "openTile": ".",
+    "initial": "closed",
+    "note": {
+      "ja": "（隠し扉）",
+      "en": "(Secret door)"
+    }
+  },
+  {
+    "id": "f3_hidden_chest",
+    "floor": "f3",
+    "type": "chest",
+    "x": 10,
+    "y": 2,
+    "contents": [
+      {
+        "kind": "item",
+        "id": "ancient_ring"
+      }
+    ]
+  }
+]
